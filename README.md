@@ -1,4 +1,4 @@
-# Industrial Engineering Track | Task-1
+# Industrial Engineering and System Engineering Track | Task-1
 
 ## Industrial Robot Arm
 
